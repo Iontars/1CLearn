@@ -1,2 +1,20 @@
 ﻿1CV8LOG(ver 2.0)
 7c9a3d2b-8bd9-4a6c-942a-58566ed81e49
+{1,071523a4-516f-4fce-ba4b-0d11ab7a1893,"",1},
+{2,"WIN-19IOI1MKL9L",1},
+{3,"1CV8",1},
+{4,"_$Session$_.Authentication",1},
+{11,
+{0},1},
+{12,
+{0},1},
+{13,1,1},
+{4,"_$Session$_.Start",2},
+{4,"_$Transaction$_.Begin",3},
+{4,"_$Transaction$_.Rollback",4},
+{4,"_$Session$_.Finish",5},
+{3,"Designer",2},
+{4,"_$InfoBase$_.ConfigUpdate",6},
+{4,"_$InfoBase$_.PredefinedDataUpdate",7},
+{5,2271271e-1440-4915-a0c5-a276a4ad7dde,"",1},
+{4,"_$InfoBase$_.DBConfigUpdate",8}
