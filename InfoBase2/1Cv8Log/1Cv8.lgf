@@ -17,4 +17,8 @@
 {4,"_$InfoBase$_.ConfigUpdate",6},
 {4,"_$InfoBase$_.PredefinedDataUpdate",7},
 {5,2271271e-1440-4915-a0c5-a276a4ad7dde,"",1},
-{4,"_$InfoBase$_.DBConfigUpdate",8}
+{4,"_$InfoBase$_.DBConfigUpdate",8},
+{3,"1CV8C",3},
+{4,"_$Data$_.New",9},
+{5,2271271e-1440-4915-a0c5-a276a4ad7dde,"Справочник.Тестовый",1},
+{4,"_$Transaction$_.Commit",10}
