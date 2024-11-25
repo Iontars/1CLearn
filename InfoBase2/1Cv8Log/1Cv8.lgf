@@ -21,4 +21,13 @@
 {3,"1CV8C",3},
 {4,"_$Data$_.New",9},
 {5,2271271e-1440-4915-a0c5-a276a4ad7dde,"Справочник.Тестовый",1},
-{4,"_$Transaction$_.Commit",10}
+{4,"_$Transaction$_.Commit",10},
+{3,"BackgroundJob",4},
+{4,"_$Data$_.Update",11},
+{5,2271271e-1440-4915-a0c5-a276a4ad7dde,"Справочник.Таски",1},
+{4,"_$Data$_.Delete",12},
+{5,1bb5fd47-35cd-4a13-be60-7c6da5888f87,"",2},
+{4,"_$Data$_.PredefinedDataInitialization",13},
+{4,"_$Data$_.DeletePredefinedData",14},
+{5,3eabd8b5-b2a8-4028-855f-e24bd73f7e7e,"",3},
+{5,3eabd8b5-b2a8-4028-855f-e24bd73f7e7e,"Справочник.Клиенты",3}
